@@ -1,0 +1,7 @@
+# Generated media stays local (large binaries)
+projects/*/clips/
+projects/*/voice/
+projects/*/*.mp4
+*.mp3
+*.wav
+.DS_Store
