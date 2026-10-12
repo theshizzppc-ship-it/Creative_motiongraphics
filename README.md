@@ -1,10 +1,10 @@
-# Vox Animation
+# Creative motion graphics
 
-Make a narrated, Vox-style explainer video with Claude Code.
+Make short Vox-style paper-collage explainer videos with Claude Code.
 
 1. Open this folder in Claude Code.
-2. Say **"let's make a video."**
-3. Follow the guided steps — Claude writes everything, you run a handful
-   of prompts in your own generator, Claude cuts the final video.
+2. Type `/collage <topic>` (for example `/collage Mumbai's dabbawalas`).
+3. Claude reads the facts, finds free archive photos, builds the scenes and
+   renders an MP4 you can edit in HyperFrames Studio.
 
-New here? Read **EXPLAINER.md** — one page, tells you everything.
+Details: `.claude/skills/collage/README.md`.
