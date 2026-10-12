@@ -1,6 +1,6 @@
 ---
 name: collage
-description: Make a Vox-style paper-collage explainer video on any topic. B&W photo cutouts with red sticker borders, torn paper, maps, label tags, marker circles, stop-motion movement, an eye-dive transition. Finds free archive photos, cuts them out, builds the video in HyperFrames and renders an MP4, with a project that opens in HyperFrames Studio. Use when the user types /collage <topic> or asks for a collage, paper cut-out, Vox-style or documentary-style explainer.
+description: Make a Vox-style paper-collage explainer video on any topic. B&W photo cutouts with red sticker borders, torn paper, maps, label tags, marker circles, stop-motion movement, an eye-dive transition. Finds free archive photos, cuts them out, builds the video in HyperFrames and renders an MP4, with a project that opens in HyperFrames Studio. Use when the user types /collage followed by a topic, or asks for a collage, paper cut-out, Vox-style or documentary-style explainer.
 ---
 
 # Collage
